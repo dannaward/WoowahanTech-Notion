@@ -7,6 +7,9 @@
 
 <br />
 
+### ✍🏻 블로그 주소
+https://velog.io/@danna-lee/series/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EB%9F%AC%EB%8B%9D-4%EA%B8%B0  
+
 ### ✍🏻 노션 주소
 https://www.notion.so/4b299ad3ba1e4d57ae7c97f83d8d3dcf?v=c5167acf7f3b4a72b3541a51ce37fdad  
 
