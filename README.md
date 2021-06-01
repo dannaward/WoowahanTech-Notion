@@ -7,6 +7,11 @@
 
 <br />
 
+### ✍🏻 노션 주소
+https://www.notion.so/4b299ad3ba1e4d57ae7c97f83d8d3dcf?v=c5167acf7f3b4a72b3541a51ce37fdad  
+
+<br />
+
 ### 🪜 사용한 기술
 
 
@@ -15,13 +20,13 @@
 <br />
 
 ### 📚 커리큘럼  
-|차시|차시 요약|📂|✍🏻|
-|:---:|:---:|:---:|:---:|
-|1차시|1. 시니어가 왜 필요할까?<br/>2. 실무적 코드란 무엇인가?<br/>3. Hands On은 누가 잘하는가? (하루에 다루는 코드량)<br/>4. (막연히) 개발을 잘한다는 것은 뭘까?|<a href=""></a>|<a href="https://www.notion.so/1-OT-c3ba7901c3af43779ac9b6c678c94921">🔗</a>|
-|2차시||<a href=""></a>|<a href=""></a>|
-|3차시||<a href=""></a>|<a href=""></a>|
-|4차시||<a href=""></a>|<a href=""></a>|
-|5차시||<a href=""></a>|<a href=""></a>|
-|6차시||<a href=""></a>|<a href=""></a>|
-|7차시||<a href=""></a>|<a href=""></a>|
-|8차시||<a href=""></a>|<a href=""></a>|
+|차시|차시 요약|📂|✍🏻 (블로그)|✍🏻 (노션)|
+|:---:|:---:|:---:|:---:|:---:|
+|1차시|1. 시니어가 왜 필요할까?<br/>2. 실무적 코드란 무엇인가?<br/>3. Hands On은 누가 잘하는가? (하루에 다루는 코드량)<br/>4. (막연히) 개발을 잘한다는 것은 뭘까?|<a href=""></a>|<a href="https://velog.io/@danna-lee/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EB%9F%AC%EB%8B%9D-4%EA%B8%B0-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%85%B8%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0feat.%EC%8B%9C%EB%8B%88%EC%96%B4%EB%B4%87-1%EC%B0%A8%EC%8B%9C">🔗</a>|<a href="https://www.notion.so/1-OT-c3ba7901c3af43779ac9b6c678c94921">🔗</a>|
+|2차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
+|3차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
+|4차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
+|5차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
+|6차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
+|7차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
+|8차시||<a href=""></a>|<a href=""></a>|<a href=""></a>|
